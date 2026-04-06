@@ -27,7 +27,7 @@
 
 I am a Mathematics and Statistics student at the University of Sydney with interests in statistical theory, quantitative research, machine learning, and applied data science. My work spans research projects, datathons, and technical coursework, with a focus on combining rigorous methodology with practical implementation.
 
-> [!NOTE]
+> [!Note]
 > My repositories primarily showcase work in statistical research, time series analysis, forecasting, optimisation, and applied machine learning.
 
 ---
