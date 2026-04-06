@@ -13,7 +13,7 @@
   <a href="https://github.com/claisyd">
     <img src="https://img.shields.io/badge/GitHub-claisyd-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="www.linkedin.com/in/calvin-lai-maths">
+  <a href="https://www.linkedin.com/in/calvin-lai-maths">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:emailcalvinlai@gmail.com">
@@ -109,5 +109,5 @@ Project for the **SUDATA x SUBAA 2024 Datathon** on stock movement prediction.
 ## Contact
 
 - GitHub: [claisyd](https://github.com/claisyd)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/calvin-lai-maths)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/calvin-lai-maths)
 - Email: [Email](mailto:emailcalvinlai@gmail.com)
