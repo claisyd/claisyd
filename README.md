@@ -42,7 +42,7 @@ Research project for **SCDL3992** on bounding the False Discovery Rate under dep
 - Developed plotting and analysis utilities for methodological comparison
 - Focused on the intersection of **statistical theory**, **simulation**, and **computational methodology**
 
-**Tools:** `R` `Statistical Inference` `Simulation` `False Discovery Rate`
+**Tools:** `R` `Probability Theory` `Target-Decoy Competition`
 
 ---
 
@@ -54,7 +54,7 @@ Research project for **SCDL3991** on probabilistic outlier detection in circular
 - Applied methods to real-world circular datasets
 - Included analysis scripts and final report
 
-**Tools:** `R` `Circular Statistics` `EM Algorithm` `Hypothesis Testing`
+**Tools:** `R (circular package)` `Circular Statistics` `EM Algorithm`
 
 ---
 
