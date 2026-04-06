@@ -13,10 +13,10 @@
   <a href="https://github.com/claisyd">
     <img src="https://img.shields.io/badge/GitHub-claisyd-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="www.linkedin.com/in/calvin-lai-maths">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:emailcalvinlai@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
