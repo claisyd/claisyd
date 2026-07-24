@@ -58,6 +58,19 @@ Research project for **SCDL3991** on probabilistic outlier detection in circular
 
 ---
 
+### [Numerical-Differentiation-Noisy-Data](https://github.com/claisyd/Numerical-Differentiation-Noisy-Data)
+Independent computational study of numerical differentiation from data corrupted by additive Gaussian noise.
+
+- Compared **forward, backward, and central differences** with fitting-based methods
+- Investigated **polynomial least-squares fitting** and **cubic smoothing splines**
+- Analysed finite-difference noise amplification and the smoothing trade-off
+- Developed a noise-adaptive spline heuristic based on $s \approx n\sigma^2$
+- Included reproducible Jupyter notebooks and a full research manuscript
+
+**Tools:** `Python` `NumPy` `SciPy` `Numerical Analysis` `Smoothing Splines`
+
+---
+
 ### [Supply-Chain-Management-Datathon-2025](https://github.com/claisyd/Supply-Chain-Management-Datathon-2025)
 **1st place** submission for the **SUDATA x SUBAA Datathon 2025**.
 
