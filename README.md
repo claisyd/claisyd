@@ -71,27 +71,16 @@ Independent computational study of numerical differentiation from data corrupted
 
 ---
 
-### [Supply-Chain-Management-Datathon-2025](https://github.com/claisyd/Supply-Chain-Management-Datathon-2025)
-**1st place** submission for the **SUDATA x SUBAA Datathon 2025**.
+### [Dynamical-Systems-Plant-Kim](https://github.com/claisyd/dynamical-systems-plant-kim)
+Mathematics capstone project for **MATH3888** (Projects in Mathematics) on modelling drug-induced changes in neuronal bursting using the **seven-dimensional Plant–Kim model** of the *Aplysia* R15 neuron.
 
-- Developed **ETS time series forecasting** and **forecast reconciliation** workflows in **R**
-- Implemented an **optimisation algorithm** for the supply chain management task
-- Combined forecasting and optimisation to support decision-making in a competition setting
-- Includes code and data from the team submission
+- Simulated untreated bursting and the effects of **TTX and ouabain** using Python
+- Performed **one- and two-parameter bifurcation analysis** using PyDSTool and AUTO
+- Investigated equilibrium stability, **Hopf bifurcations**, and **saddle-node bifurcations**
+- Independently derived and validated the **7×7 Jacobian**, examining saddle-node nondegeneracy, Hopf transversality, and oscillation-period predictions
+- Included computational notebooks, numerical results, and group and individual research reports
 
-**Tools:** `R` `Time Series` `Forecast Reconciliation` `Optimisation`
-
----
-
-### [Stock-Prediction-Datathon-2024](https://github.com/claisyd/Stock-Prediction-Datathon-2024)
-Project for the **SUDATA x SUBAA 2024 Datathon** on stock movement prediction.
-
-- Performed time series analysis on **JP Morgan** stock prices
-- Incorporated **tweet sentiment analysis** as a predictive feature
-- Built preprocessing pipelines, machine learning models, and cross-validation workflows
-- Combined financial data analysis with applied machine learning
-
-**Tools:** `Python` `Machine Learning` `Time Series` `Sentiment Analysis`
+**Tools:** `Python` `SciPy` `SymPy` `PyDSTool` `AUTO` `Dynamical Systems` `Bifurcation Analysis`
 
 ---
 
@@ -99,7 +88,7 @@ Project for the **SUDATA x SUBAA 2024 Datathon** on stock movement prediction.
 
 - Statistical modelling and inference  
 - Time series analysis and forecasting  
-- Quantitative research  
+- Quantitative research and data science
 - Machine learning and predictive modelling  
 - Optimisation and data-driven decision-making  
 
